@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordsArray", "MethodsConsoleApp\WordsArray.csproj", "{AB024845-7997-45E2-A5D6-ED5EA1CC0450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseText", "ReverseText\ReverseText.csproj", "{11E9A4EF-DB5A-4CBC-887D-CB9F65C43F60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB024845-7997-45E2-A5D6-ED5EA1CC0450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB024845-7997-45E2-A5D6-ED5EA1CC0450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB024845-7997-45E2-A5D6-ED5EA1CC0450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB024845-7997-45E2-A5D6-ED5EA1CC0450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E9A4EF-DB5A-4CBC-887D-CB9F65C43F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E9A4EF-DB5A-4CBC-887D-CB9F65C43F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E9A4EF-DB5A-4CBC-887D-CB9F65C43F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E9A4EF-DB5A-4CBC-887D-CB9F65C43F60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD4F0B47-10BB-4E4C-8AE4-BF9CD537B327}
+	EndGlobalSection
+EndGlobal
